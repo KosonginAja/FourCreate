@@ -41,7 +41,7 @@
                                 style="position: absolute; right: 10px; top: 60%; transform: translateY(5%); cursor: pointer;"></span>
                         </div>
 
-                        <button type="submit" class="btn btn-regis w-100 rounded-3 mb-3">SIGN UP</button>
+                        <button type="submit" class="btn btn-regis w-100 rounded-3 mb-3">SIGN IN</button>
                     </form>
                     <p class="text text-center">Don't have an account yet? <a href="regis.php">Register here</a>
                     </p>
