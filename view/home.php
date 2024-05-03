@@ -113,7 +113,7 @@
                             <p class="card-text text-dark fw-normal my-0">Product Name</p>
                             <p class="card-text text-dark fw-bold my-0">Rp 20.000.000</p>
                             <p class="card-text text-dark fw-normal"><i class="fa-solid fa-star"
-                                    style="color: #FFD43B;"></i></p>
+                                    style="color: #FFD43B;"></i>5.0</p>
                         </div>
                     </div>
                 </a>
@@ -125,7 +125,7 @@
                             <p class="card-text text-dark fw-normal my-0">Product Name</p>
                             <p class="card-text text-dark fw-bold my-0">Rp 20.000.000</p>
                             <p class="card-text text-dark fw-normal"><i class="fa-solid fa-star"
-                                    style="color: #FFD43B;"></i></p>
+                                    style="color: #FFD43B;"></i>5.0</p>
                         </div>
                     </div>
                 </a>
@@ -137,7 +137,7 @@
                             <p class="card-text text-dark fw-normal my-0">Product Name</p>
                             <p class="card-text text-dark fw-bold my-0">Rp 20.000.000</p>
                             <p class="card-text text-dark fw-normal"><i class="fa-solid fa-star"
-                                    style="color: #FFD43B;"></i></p>
+                                    style="color: #FFD43B;"></i>5.0</p>
                         </div>
                     </div>
                 </a>
@@ -149,7 +149,7 @@
                             <p class="card-text text-dark fw-normal my-0">Product Name</p>
                             <p class="card-text text-dark fw-bold my-0">Rp 20.000.000</p>
                             <p class="card-text text-dark fw-normal"><i class="fa-solid fa-star"
-                                    style="color: #FFD43B;"></i></p>
+                                    style="color: #FFD43B;"></i>5.0</p>
                         </div>
                     </div>
                 </a>
@@ -161,7 +161,7 @@
                             <p class="card-text text-dark fw-normal my-0">Product Name</p>
                             <p class="card-text text-dark fw-bold my-0">Rp 20.000.000</p>
                             <p class="card-text text-dark fw-normal"><i class="fa-solid fa-star"
-                                    style="color: #FFD43B;"></i></p>
+                                    style="color: #FFD43B;"></i>5.0</p>
                         </div>
                     </div>
                 </a>
@@ -173,7 +173,7 @@
                             <p class="card-text text-dark fw-normal my-0">Product Name</p>
                             <p class="card-text text-dark fw-bold my-0">Rp 20.000.000</p>
                             <p class="card-text text-dark fw-normal"><i class="fa-solid fa-star"
-                                    style="color: #FFD43B;"></i></p>
+                                    style="color: #FFD43B;"></i>5.0</p>
                         </div>
                     </div>
                 </a>
@@ -185,7 +185,7 @@
                             <p class="card-text text-dark fw-normal my-0">Product Name</p>
                             <p class="card-text text-dark fw-bold my-0">Rp 20.000.000</p>
                             <p class="card-text text-dark fw-normal"><i class="fa-solid fa-star"
-                                    style="color: #FFD43B;"></i></p>
+                                    style="color: #FFD43B;"></i>5.0</p>
                         </div>
                     </div>
                 </a>
@@ -197,7 +197,7 @@
                             <p class="card-text text-dark fw-normal my-0">Product Name</p>
                             <p class="card-text text-dark fw-bold my-0">Rp 20.000.000</p>
                             <p class="card-text text-dark fw-normal"><i class="fa-solid fa-star"
-                                    style="color: #FFD43B;"></i></p>
+                                    style="color: #FFD43B;"></i>5.0</p>
                         </div>
                     </div>
                 </a>
